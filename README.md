@@ -1,2 +1,2 @@
 # MyTraining
-for advanced things
+My Portfolio
